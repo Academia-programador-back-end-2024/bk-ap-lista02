@@ -8,7 +8,7 @@ namespace Lista02
     {
         /*
          * - 
-- Crie uma matriz 4x4 de números inteiros aleatórios e encontre o maior valor presente nela.
+- Crie uma matriz 4x4 de números inteiros aleatórios e encontre o maior valor presente nela
 - Busca de Dados em uma Matriz de Animais
   Suponha que você tenha uma matriz que representa uma lista de animais, onde cada linha contém as seguintes propriedades de um animal:
     Nome
